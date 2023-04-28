@@ -61,7 +61,7 @@ const Sent = () => {
         return (
           <div key={sentMails.id} className="inbox-items">
             <AiFillDelete
-              color="red"
+              color="white"
               className="delete"
               onClick={() => handleDelete(sentMails.id)}
             />

@@ -8,10 +8,10 @@ const Home = () => {
         margin: "15%",
        
         fontSize: "90px",
-        color: "blue",
+        color: "Orangered",
       }}
     >
-      Welcome to your mail box !!!
+      Welcome to MailBox !!!
     </div>
   );
 };
