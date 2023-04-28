@@ -24,7 +24,7 @@ const Navbar = () => {
   return (
     <>
       <div className="Navbar">
-        <h1>MaxMail</h1>
+        <h1>GMAIL</h1>
         <Link to={"/"}>Home</Link>
         {token && <Link to={"/mailbox"}>MailBox</Link>}
         {!token && <Link to={"/signUp"}>SignUp</Link>}
