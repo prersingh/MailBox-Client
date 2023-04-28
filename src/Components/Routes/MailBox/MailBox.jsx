@@ -90,11 +90,11 @@ const MailBox = () => {
             </button>
           </Link>
         </div>
-        {!show && <h1>Click on Send to send mail</h1>}
+        {!show && <h1>Click to send email</h1>}
         {show && (
           <div>
             <h1 style={{ color: "grey" }}>
-              Componse mail here : 
+              Componse mail:
             </h1>
             <div className="mail">
               <div>

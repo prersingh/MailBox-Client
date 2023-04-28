@@ -6,8 +6,8 @@
   display: flex;
   justify-content: space-around;
   align-items: center;
-  background-color: red;
-  color: blue;
+  background-color: purple;
+  color: whitesmoke;
   height: 70px;
 }
 .Navbar a {
